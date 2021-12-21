@@ -1,11 +1,13 @@
 ---
 title: Siddharth Prusty
 role: PhD Student, Fuqua School of Business, Duke University
+avatar_filename: dxp25977-copy.jpg
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Empirical Industrial Organization
+  - Analytical Modeling
+  - Machine Learning
+  - Causal Inference
 social: []
 organizations: []
 education:
