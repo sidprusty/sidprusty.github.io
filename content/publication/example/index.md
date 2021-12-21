@@ -1,26 +1,13 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci,
-  mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in
-  dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
-  arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
-  eleifend gravida.
-slides: example
+abstract: In many learning problems, the training and testing data follow different distributions and a particularly common situation is the covariate shift. To correct for sampling biases, most approaches, including the popular kernel mean matching (KMM), focus on estimating the importance weights between the two distributions. Reweighting-based methods, however, are exposed to high variance when the distributional discrepancy is large. On the other hand, the alternate approach of using nonparametric regression (NR) incurs high bias when the training size is limited. In this paper, we propose and analyze a new estimator that systematically integrates the residuals of NR with KMM reweighting, based on a control-variate perspective. The proposed estimator can be shown to either strictly outperform or match the best-known existing rates for both KMM and NR, and thus is a robust combination of both estimators. The experiments shows the estimator works well in practice.
 url_pdf: ""
 publication_types:
   - "1"
 authors:
   - admin
-  - Robert Ford
-author_notes:
-  - Equal contribution
-  - Equal contribution
-publication: In *Wowchemy Conference*
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+  - Fengpei Li
+  - Henry Lam
+publication: In *Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics, PMLR 108:352-362, 2020.*
 url_dataset: ""
 url_project: ""
 publication_short: In *ICW*
@@ -32,10 +19,6 @@ featured: true
 tags: []
 projects:
   - example
-image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
-  focal_point: ""
-  preview_only: false
 date: 2013-07-01T00:00:00Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
