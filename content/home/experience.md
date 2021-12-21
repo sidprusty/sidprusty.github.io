@@ -25,27 +25,27 @@ experience:
   - title: Teaching Assistant
     company: Value Creation in MarTech (for Professor Carl Mela)
     location: Fuqua School of Business, Duke University
-    date_start: 'Oct 2021'
-    date_end: 'Dec 2021'
+    date_start: '2021-10-15'
+    date_end: '2021-12-15'
         
   - title: Teaching Assistant
     company: Introduction to Marketing Analysis (for Professor Tong Guo)
     company_url: ''
     location: Fuqua School of Business, Duke University
-    date_start: 'Aug 2021'
-    date_end: 'Sep 2021'
+    date_start: '2021-09-01'
+    date_end: '2021-10-15'
     
   - title: Teaching Assistant
     company: Stochastic Models & Applications (for Professor Ton Dieker)
     location: IEOR Department, Columbia University
-    date_start: 'Aug 2020'
-    date_end: 'Dec 2020'    
+    date_start: '2020-09-01'
+    date_end: '2020-12-15'    
 
   - title: Teaching Assistant
     company: Introduction to Financial Engineering (for Professor David Yao)
     location: IEOR Department, Columbia University
-    date_start: 'Jan 2019'
-    date_end: 'May 2020'
+    date_start: '2019-01-01'
+    date_end: '2020-04-30'
 design:
   columns: '2'
 ---
