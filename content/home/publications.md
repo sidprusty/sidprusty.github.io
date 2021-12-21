@@ -17,7 +17,7 @@ content:
     author: ""
     exclude_featured: true
 design:
-  view: 4
+  view: 2
   columns: "2"
 ---
 [Robust Importance Weighting for Covariate Shift](http://proceedings.mlr.press/v108/li20b.html), with *[Henry Lam](http://www.columbia.edu/~khl2114/)* & *Fengpei Li.*
