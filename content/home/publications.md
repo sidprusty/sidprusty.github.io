@@ -25,8 +25,8 @@ content:
   filters:
     tag: ''
     category: ''
-    publication_type: ''
-    author: ''
+    publication_type: 'Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics, PMLR 108:352-362, 2020.'
+    author: 'Fengpei Li, Henry Lam, Siddharth Prusty'
     exclude_featured: true
 design:
   # Choose a view for the listings:
