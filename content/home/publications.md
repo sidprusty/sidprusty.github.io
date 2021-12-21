@@ -24,9 +24,9 @@ content:
   # Filter on criteria
   filters:
     tag: ''
-    category: 'Robust Importance Weighting for Covariate Shift'
-    publication_type: 'Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics, PMLR 108:352-362, 2020.'
-    author: 'Fengpei Li, Henry Lam, Siddharth Prusty'
+    category: ''
+    publication_type: ''
+    author: ''
     exclude_featured: true
 design:
   # Choose a view for the listings:
