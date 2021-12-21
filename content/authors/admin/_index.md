@@ -16,7 +16,13 @@ organizations:
     url: https://www.ieor.columbia.edu/
   - name: IIT Kanpur
 education:
-  courses: []
+  courses:
+    - course: Fuqua School of Business, Duke University
+      institution: Fuqua School of Business, Duke University
+    - course: IEOR Department, Columbia University
+      institution: IEOR Department, Columbia University
+    - course: IIT Kanpur
+      institution: IIT Kanpur
 email: ""
 superuser: true
 highlight_name: true
