@@ -9,20 +9,9 @@ interests:
   - Machine Learning
   - Causal Inference
 social: []
-organizations:
-  - name: Fuqua School of Business, Duke University
-    url: https://areas.fuqua.duke.edu/marketing/ph-d-program/ph-d-students/
-  - name: IEOR Department, Columbia University
-    url: https://www.ieor.columbia.edu/
-  - name: IIT Kanpur
+organizations: []
 education:
-  courses:
-    - course: Fuqua School of Business, Duke University
-      institution: Fuqua School of Business, Duke University
-    - course: IEOR Department, Columbia University
-      institution: IEOR Department, Columbia University
-    - course: IIT Kanpur
-      institution: IIT Kanpur
+  courses: []
 email: ""
 superuser: true
 highlight_name: true
