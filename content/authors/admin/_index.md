@@ -14,12 +14,13 @@ education:
   courses:
     - course: PhD in Quantitative Marketing
       institution: Fuqua School of Business, Duke University
-      year: ""
+      year: 2025
     - course: MS in Operations Research
       institution: IEOR Department, Columbia University
       year: 2020
-    - course: Electrical Engineering (Algorithms minor)
+    - course: Electrical Engineering (Major), Algorithms (Minor)
       institution: IIT Kanpur
+      year: 2018
 email: ""
 superuser: true
 highlight_name: true
