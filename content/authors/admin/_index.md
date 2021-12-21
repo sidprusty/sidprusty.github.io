@@ -18,7 +18,7 @@ education:
     - course: MS in Operations Research
       institution: IEOR Department, Columbia University
       year: 2020
-    - course: B.Tech in Electrical Engineering (Major)
+    - course: B.Tech in Electrical Engineering
       institution: Indian Institute of Technology, Kanpur
       year: 2016
 email: ""
