@@ -16,7 +16,7 @@ publication: ""
 featured: false
 date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-title: Robust Importance Weighting for Covariate Shift
+title: Publications
 tags: []
 projects:
   - example
