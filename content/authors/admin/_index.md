@@ -1,7 +1,7 @@
 ---
 title: Siddharth Prusty
 role: PhD Student, Fuqua School of Business, Duke University
-avatar_filename: ""
+avatar_filename: dxp25977-copy.jpg
 bio: ""
 interests:
   - Empirical Industrial Organization
