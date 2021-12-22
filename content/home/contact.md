@@ -19,3 +19,4 @@ content:
 design:
   columns: '2'
 ---
+{{% staticref "uploads/cv.pdf" %}}Download my CV{{% /staticref %}}
