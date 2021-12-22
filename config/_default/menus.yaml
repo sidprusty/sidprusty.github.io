@@ -25,3 +25,4 @@ main:
   - name: CV
     url: 'static/uploads/cv.pdf'
     weight: 60
+    {{% staticref "uploads/cv.pdf" %}}Download my CV{{% /staticref %}}
