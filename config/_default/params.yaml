@@ -131,3 +131,10 @@ cms:
 icon:
   pack:
     ai: true
+
+## Make site searchable
+
+marketing:
+  google_site_verification: ''
+  baidu_site_verification: ''
+  bing_site_verification: ''
