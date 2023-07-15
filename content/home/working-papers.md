@@ -1,35 +1,24 @@
 ---
-# An instance of the Portfolio widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: portfolio
-
-# This file represents a page section.
+widget: pages
+widget_id: publications
 headless: true
-
-# Order that this section appears on the page.
-weight: 30
-
-title: Working Papers
-subtitle: ''
-
+weight: 20
+title: Publications
+subtitle: ""
 content:
-  # Page type to display. E.g. project.
-  page_type: working-papers
-
-  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filter_default: 0
-
+  page_type: publication
+  count: 5
+  offset: 0
+  order: desc
+  filters:
+    tag: ""
+    category: ""
+    publication_type: ""
+    author: ""
+    exclude_featured: true
 design:
-  # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
-
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   5 = Showcase
   view: 2
-
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  columns: "2"
 ---
+[Sustainable Consumption: A Strategic Analysis](https://drive.google.com/file/d/1BGnZVklvd3reccfuet6S7RD22dg77Q_g/view?usp=sharing), with *[Wilfred Amaldonn](https://www.fuqua.duke.edu/faculty/wilfred-amaldoss)*.
+
