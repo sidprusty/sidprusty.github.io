@@ -1,4 +1,4 @@
 [[main]]
   name = "CV_Siddharth"  # A link title for your page.
-  url = 'static/uploads/cv.pdf'  # The URL of your page.
+  url = 'static/uploads/SiddharthPrusty_Resume_2023.pdf'  # The URL of your page.
   weight = 50  # The position of your page in the menu.
