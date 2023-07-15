@@ -3,7 +3,7 @@ widget: pages
 widget_id: publications
 headless: true
 weight: 20
-title: Publications
+title: Working Papers
 subtitle: ""
 content:
   page_type: publication
@@ -20,5 +20,5 @@ design:
   view: 2
   columns: "2"
 ---
-[Sustainable Consumption: A Strategic Analysis](https://drive.google.com/file/d/1BGnZVklvd3reccfuet6S7RD22dg77Q_g/view?usp=sharing), with *[Wilfred Amaldonn](https://www.fuqua.duke.edu/faculty/wilfred-amaldoss)*.
+[Sustainable Consumption: A Strategic Analysis](https://drive.google.com/file/d/1BGnZVklvd3reccfuet6S7RD22dg77Q_g/view?usp=sharing), with *[Wilfred Amaldoss](https://www.fuqua.duke.edu/faculty/wilfred-amaldoss)*.
 
