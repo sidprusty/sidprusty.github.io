@@ -24,7 +24,7 @@ design:
 
 -with *[Hana Choi](https://hanachoi.github.io)* and *[Carl Mela](https://www.fuqua.duke.edu/faculty/carl-mela)*.
 
----
+
 [Information and Pricing in Display Advertising]
 
 with *[Srinivas Tunuguntla](https://www.fuqua.duke.edu/faculty/srinivas-tunuguntla)* and *[Carl Mela](https://www.fuqua.duke.edu/faculty/carl-mela)*.
