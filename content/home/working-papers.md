@@ -20,5 +20,7 @@ design:
   view: 2
   columns: "2"
 ---
-[Sustainable Consumption: A Strategic Analysis](https://drive.google.com/file/d/1BGnZVklvd3reccfuet6S7RD22dg77Q_g/view?usp=sharing), with *[Wilfred Amaldoss](https://www.fuqua.duke.edu/faculty/wilfred-amaldoss)*.
+[Sustainable Consumption: A Strategic Analysis](https://www.dropbox.com/s/89ylv55387jw0hw/Sustainable-Consumption_MKSC-Submission.pdf?dl=0), Under Review
+
+-with *[Wilfred Amaldoss](https://www.fuqua.duke.edu/faculty/wilfred-amaldoss)*.
 
