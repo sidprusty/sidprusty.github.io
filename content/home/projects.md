@@ -22,9 +22,9 @@ design:
 ---
 * Optimizing Quality Scores for Position Auctions in Online Marketplace (Data Analysis in Progress)
 
-  -with *[Hana Choi](https://hanachoi.github.io)* and *[Carl Mela](https://www.fuqua.duke.edu/faculty/carl-mela)*.
+    -with *[Hana Choi](https://hanachoi.github.io)* and *[Carl Mela](https://www.fuqua.duke.edu/faculty/carl-mela)*.
 
 
-* Information and Pricing in Display Advertising
+* Information Pricing and Consumer Privacy in Display Advertising
 
-  -with *[Srinivas Tunuguntla](https://www.fuqua.duke.edu/faculty/srinivas-tunuguntla)* and *[Carl Mela](https://www.fuqua.duke.edu/faculty/carl-mela)*.
+    -with *[Srinivas Tunuguntla](https://www.fuqua.duke.edu/faculty/srinivas-tunuguntla)* and *[Carl Mela](https://www.fuqua.duke.edu/faculty/carl-mela)*.
