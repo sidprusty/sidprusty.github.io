@@ -1,20 +1,20 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-#widget: experience
+widget: experience
 
 # This file represents a page section.
-#headless: true
+headless: true
 
 # Order that this section appears on the page.
-#weight: 40
+weight: 40
 
 #title: Teaching Experience
-#subtitle:
+subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-#date_format: 'Jan 2, 2006'
+date_format: 'Jan 2, 2006'
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -22,30 +22,30 @@
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 #experience:
-#  - title: Teaching Assistant
-    company: Value Creation in MarTech (for Professor Carl Mela)
+  - title: Instructor for Statistical Programming
+    company: Python Bootcamp
     location: Fuqua School of Business, Duke University
-    date_start: '2021-10-15'
-    date_end: '2021-12-15'
+    date_start: '2023-08-14'
+    date_end: '2023-08-18'
         
-#  - title: Teaching Assistant
-    company: Introduction to Marketing Analysis (for Professor Tong Guo)
+  - title: Teaching Assistant (Duke University)
+    company: Value Creation in Martech (2021/2023 for Carl Mela),  Programming Analytics (2023 for Allison Chaney),  Strategic Brand Management (2022/2023 for Tong Guo),  Marketing Core (2022 for Srinivas Tunuguntla)
     company_url: ''
     location: Fuqua School of Business, Duke University
     date_start: '2021-09-01'
-    date_end: '2021-10-15'
+    date_end: '2026-05-30'
     
-#  - title: Teaching Assistant
-    company: Stochastic Models & Applications (for Professor Ton Dieker)
+  - title: Teaching Assistant (Columbia University)
+    company: Stochastic Models & Applications (2020 for Ton Dieker),  Introduction to Financial Engineering (2019 F/Sp, for David Yao)
     location: IEOR Department, Columbia University
-    date_start: '2020-09-01'
+    date_start: '2019-09-01'
     date_end: '2020-12-15'    
 
-#  - title: Teaching Assistant
-    company: Introduction to Financial Engineering (for Professor David Yao)
-    location: IEOR Department, Columbia University
-    date_start: '2019-01-01'
-    date_end: '2020-04-30'
-#design:
-#  columns: '2'
+  #- title: Teaching Assistant
+  #  company: Introduction to Financial Engineering (for Professor David Yao)
+  #  location: IEOR Department, Columbia University
+  #  date_start: '2019-01-01'
+  #  date_end: '2020-04-30'
+design:
+  columns: '2'
 ---
