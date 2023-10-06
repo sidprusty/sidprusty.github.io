@@ -21,7 +21,7 @@ date_format: 'Jan 2, 2006'
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-#experience:
+experience:
   - title: Instructor, Statistical Programming
     company: Python Summer Bootcamp
     location: Fuqua School of Business, Duke University
@@ -41,5 +41,5 @@ date_format: 'Jan 2, 2006'
     date_end: '2020-12-15'    
 
 design:
- columns: '2'
+  columns: '2'
 ---
