@@ -46,6 +46,6 @@ date_format: 'Jan 2, 2006'
   #  location: IEOR Department, Columbia University
   #  date_start: '2019-01-01'
   #  date_end: '2020-04-30'
-design:
- columns: '2'
+#design:
+# columns: '2'
 ---
