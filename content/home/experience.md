@@ -41,11 +41,6 @@ date_format: 'Jan 2, 2006'
     date_start: '2019-09-01'
     date_end: '2020-12-15'    
 
-  - title: Teaching Assistant
-    company: Introduction to Financial Engineering (for Professor David Yao)
-    location: IEOR Department, Columbia University
-    date_start: '2019-01-01'
-    date_end: '2020-04-30'
 design:
  columns: '2'
 ---
