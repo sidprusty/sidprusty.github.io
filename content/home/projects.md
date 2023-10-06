@@ -20,6 +20,7 @@ design:
   view: 2
   columns: "2"
 ---
-* Optimizing Quality Scores for Position Auctions in Online Marketplace (Data collected, Analysis in Progress)
+* Optimizing Quality Scores for Position Auctions in Online Marketplace
+  (Data collected, Analysis in Progress)
 
     -with *[Hana Choi](https://hanachoi.github.io)* and *[Carl Mela](https://www.fuqua.duke.edu/faculty/carl-mela)*.
