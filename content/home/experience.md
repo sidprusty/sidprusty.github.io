@@ -41,6 +41,6 @@ date_format: 'Jan 2, 2006'
     date_start: '2019-09-01'
     date_end: '2020-12-15'    
 
-design:
- columns: '2'
+#design:
+# columns: '2'
 ---
