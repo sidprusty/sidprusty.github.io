@@ -41,5 +41,5 @@ date_format: 'Jan 2, 2006'
     date_end: '2020-12-15'    
 
 design:
-columns: '2'
+ columns: '2'
 ---
