@@ -20,7 +20,7 @@ design:
   view: 2
   columns: "2"
 ---
-* [Sustainable Consumption: A Strategic Analysis](https://www.dropbox.com/home/Paper-Upload?preview=SustainableConsumption_SecondRound.pdf)
+* [Sustainable Consumption: A Strategic Analysis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4512307)
   (_Major Revision_ at Marketing Science)
 
   -with *[Wilfred Amaldoss](https://www.fuqua.duke.edu/faculty/wilfred-amaldoss)*.
