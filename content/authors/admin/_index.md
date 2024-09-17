@@ -28,6 +28,6 @@ highlight_name: true
 ---
 I am a PhD candidate in Quantitative Marketing at [Fuqua School of Business](https://www.fuqua.duke.edu/), Duke University. 
 
-My dissertation paper develops monetization algorithms in the context of retail media (advertising in online marketplaces). Using data from a retail marketplace, I show that the proposed algorithms improve revenues for the marketplace and advertisers. Another stream of my research theoretically investigates optimal firm response in the context of sustainable consumption. 
+My dissertation paper develops monetization algorithms in the context of retail media (advertising in online marketplaces). Using data from a retail marketplace, I show that the proposed algorithms improve revenues for the marketplace and advertisers. Another stream of my research theoretically investigates optimal firm response in the market for sustainable products. 
 
-I employ methods from empirical IO, analytical models, operations, and statistics to address problems of interest. My research has been published at [Proceedings of Machine Learning Research](http://proceedings.mlr.press/v108/li20b.html). 
+I employ methods from empirical IO, analytical models, operations, and statistics to address problems of interest.
