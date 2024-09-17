@@ -4,10 +4,12 @@ role: PhD Student, Fuqua School of Business, Duke University
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Empirical Industrial Organization
-  - Analytical Modeling
-  - Advertising
+  - Online Marketplaces
+  - Advertising Auctions
   - Sustainability
+  - Empirical IO
+  - Analytical Modeling
+  - Marketing-Operations interface
 social: []
 organizations: []
 education:
@@ -25,6 +27,11 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hi! I am a PhD student in Quantitative Marketing at [Fuqua School of Business](https://www.fuqua.duke.edu/), Duke University. I am interested in the broad area of Industrial Organization, and my current substantive focus pertains to problems on advertising in retail marketplaces, and sustainable consumption. I employ both structural and analytical methods to address problems of interest. I have been fortunate to be working with [Professor Carl Mela](https://www.fuqua.duke.edu/faculty/carl-mela) and [Professor Wilfred Amaldoss](https://www.fuqua.duke.edu/faculty/wilfred-amaldoss) from the Marketing area at Fuqua. 
+I am a PhD candidate in Quantitative Marketing at [Fuqua School of Business](https://www.fuqua.duke.edu/), Duke University. 
 
-I completed my Master's in Operations Research from the [IEOR Department, Columbia University](https://www.ieor.columbia.edu/), where my research focus was on statistical learning theory. My undergraduate is from [IIT Kanpur](https://www.iitk.ac.in/), where I studied Electrical Engineering, followed by a couple of years in industry. Apart from work, other things that make me happy include exploring nature and mountains (I trek) or visiting new cities. Otherwise, I play [chess](https://ratings.fide.com/profile/5030897), indulge in Yoga, squash, or take a run.
+My dissertation paper develops monetization algorithms in the context of advertising in online marketplaces (retail media). As in search advertising, the marketplace multiplies advertisers' bid with a quality score in determining display ranking. Considering revenues from clicks (ad revenues) and sales (conversion revenues), I develop optimal quality score algorithms that help the retail marketplace rank products to maximize  their revenue. Using data from a retail marketplace, I show that the proposed algorithm improves revenue for the marketplace.
+
+Another stream of my research investigates optimal firm response in the context of sustainable products. An exploratory survey shows that many consumers desire (dislike) sustainable products and are willing to pay more (less) for them. Using a theoretical model where firms are horizontally differentiated and two groups of consumers have divergent preference for sustainable products, we investigate the strategic implications of sustainable consumption. A follow-up work investigates consumption externalities in the context of sustainable consumption.
+
+I employ methods from operations, empirical IO, and analytical models to address problems of interest.  
+
