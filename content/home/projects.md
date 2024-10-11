@@ -20,7 +20,7 @@ design:
   view: 2
   columns: "2"
 ---
-* Retail Media Search Monetization: An Algorithmic Approach
+1. Retail Media Search Monetization: An Algorithmic Approach
   (Work in Progress)
 
-    -with *[Carl Mela](https://www.fuqua.duke.edu/faculty/carl-mela)* and *[Hana Choi](https://hanachoi.github.io)*.
+-with *[Carl Mela](https://www.fuqua.duke.edu/faculty/carl-mela)* and *[Hana Choi](https://hanachoi.github.io)*.
