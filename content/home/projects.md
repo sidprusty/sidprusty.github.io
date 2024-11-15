@@ -20,6 +20,6 @@ design:
   view: 2
   columns: "2"
 ---
-* Retail Media Search Monetization: An Algorithmic Approach
+* Monetizing Sponsored Advertising in Online Retail
 
   -with *[Carl Mela](https://www.fuqua.duke.edu/faculty/carl-mela)* and *[Hana Choi](https://hanachoi.github.io)*.
