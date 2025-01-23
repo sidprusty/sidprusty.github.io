@@ -20,7 +20,7 @@ design:
   view: 2
   columns: "2"
 ---
-* [Sustainable Consumption: A Strategic Analysis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4512307)
-  (_Minor Revision_ at Marketing Science)
+* [Monetizing Sponsored Advertising in Online Retail]
+  (_Job Market Paper_, Draft available upon request)
 
-  -with *[Wilfred Amaldoss](https://www.fuqua.duke.edu/faculty/wilfred-amaldoss)*.
+  -with *[Carl Mela](https://www.cfmela.com)* and *[Hana Choi](https://hanachoi.github.io)*.
