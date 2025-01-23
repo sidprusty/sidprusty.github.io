@@ -20,6 +20,6 @@ design:
   view: 2
   columns: "2"
 ---
-* Monetizing Sponsored Advertising in Online Retail
+* Regulating Sustainable Products: A Public Policy Perspective
 
-  -with *[Carl Mela](https://www.fuqua.duke.edu/faculty/carl-mela)* and *[Hana Choi](https://hanachoi.github.io)*.
+  -with *[Wilfred Amaldoss](https://www.fuqua.duke.edu/faculty/wilfred-amaldoss)*.
