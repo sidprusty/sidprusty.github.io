@@ -30,4 +30,4 @@ I am a PhD candidate in Quantitative Marketing at [Fuqua School of Business](htt
 
 Another stream of research theoretically investigates optimal firm response in the market for sustainable products, finding counter-intuitive insights regarding prices, profits and consumer surplus. A follow-up work considers regulation of sustainable products.
 
-I employ methods from empirical IO, analytical models, operations, and statistics to address problems of interest. My research has been published at Marketing Science and the Journal of Machine Learning Research.
+I employ methods from empirical IO, analytical models, operations, and statistics to address problems of interest. My research has been published at Marketing Science and the Proceedings of Machine Learning Research.
