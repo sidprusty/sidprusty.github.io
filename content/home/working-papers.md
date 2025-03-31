@@ -20,7 +20,7 @@ design:
   view: 2
   columns: "2"
 ---
-* Monetizing Sponsored Advertising in Online Retail
-  (_Job Market Paper_, Draft available upon request)
+* Enhancing Position Auctions in Retail Media
+  (_Job Market Paper_, work in progress)
 
   -with *[Carl Mela](https://www.cfmela.com)* and *[Hana Choi](https://hanachoi.github.io)*.
