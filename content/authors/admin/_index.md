@@ -26,7 +26,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a PhD candidate in Quantitative Marketing at [Fuqua School of Business](https://www.fuqua.duke.edu/), Duke University. My dissertation paper considers monetization of sponsored advertising in online retail by optimizing the quality score algorithm to maximize marketplace profits from position auctions. Using data from an online retailer, I show that quality score enhancements improve marketplace profits by 21% over status-quo, while also improving advertiser welfare. 
+I am a PhD candidate in Quantitative Marketing at [Fuqua School of Business](https://www.fuqua.duke.edu/), Duke University. My dissertation paper considers enhancements of position auctions in retail media by improving the quality score algorithm to maximize a retailer's profits from clicks and purchases. Using data from an online retailer, I show that quality score enhancements improve retailer profits and advertisers' revenues. 
 
 Another stream of research theoretically investigates optimal firm response in the market for sustainable products, finding counter-intuitive insights regarding prices, profits and consumer surplus. A follow-up work considers regulation of sustainable products.
 
