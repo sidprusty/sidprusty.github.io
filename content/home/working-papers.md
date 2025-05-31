@@ -23,4 +23,4 @@ design:
 * Enhancing Position Auctions in Retail Media
   (_Job Market Paper_)
 
-  -with *[Carl Mela](https://www.cfmela.com)* and *[Hana Choi](https://hanachoi.github.io)*.
+  -with *[Carl F. Mela](https://www.cfmela.com)* and *[Hana Choi](https://hanachoi.github.io)*.
