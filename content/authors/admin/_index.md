@@ -1,14 +1,15 @@
 ---
 title: Siddharth Prusty
-role: PhD Student, Fuqua School of Business, Duke University
+role: Assistant Professor, Indian School of Business
 avatar_filename: avatar.jpg
 bio: ""
 interests:
+  - Digital Marketing
   - Retail Media
   - Ad Auctions
-  - Mechanism Design
   - Sustainability
   - Regulation
+  - Marketing-OM interface
 social: []
 organizations: []
 education:
@@ -26,8 +27,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am completing my PhD in Quantitative Marketing at [Fuqua School of Business](https://www.fuqua.duke.edu/), Duke University. My research focuses on exploring strategic questions in the domain of digital marketing and sustainability. 
+Hi! I am an Assistant Professor of Marketing at the Indian School of Business. My research lies in the area of Quantitative Marketing, with primary interests in digital marketing, retail media, advertising auctions, sustainability, regulation, and AI. In one stream of research, I investigate how retail platforms can optimize advertising auctions by balancing monetization strategies in digital marketplaces. In a second stream of research, I investigate consumer preferences for sustainable products, and inform how firms should design and price these products, as well as how social planners should regulate such markets.
 
-In my dissertation paper, I seek to improve the design of position auctions in retail media, that is used to allocate and price ads. Using impression-level data obtained from an online retail platform, I develop an approach to simultaneously improve platform profits and advertiser surplus over status quo position auction mechanisms. In another stream of research, I study the market for sustainable products, showing how consumers' heterogeneous preferences for sustainability could produce counter-intuitive insights regarding prices, profits and consumer surplus. A subsequent paper considers regulation of sustainable products.
-
-My research has been published at *Marketing Science* and the *Proceedings of Machine Learning Research*.
+Methodologically, I use techniques from mechanism design, structural modeling, analytical modeling, machine learning, and statistics, to solve strategic problems in my areas of interest. 
